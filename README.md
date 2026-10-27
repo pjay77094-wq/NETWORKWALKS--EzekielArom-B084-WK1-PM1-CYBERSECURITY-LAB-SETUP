@@ -163,6 +163,7 @@ This laboratory is intended strictly for educational purposes only.
 7-Zip: https://7-zip.org/download.html
 VirtualBox: https://virtualbox.org/wiki/Downloads
 Kali Linux: https://kali.org/get-kali
+Full Documentation for Lab setup in the doc.{https://github.com/pjay77094-wq/NETWORKWALKS--EzekielArom-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/7426f1ed52ef0e4b1a2fc03394614f4a9bea8a83/WK1-PM1_Lab_Setup_Ezekiel%20Arom.docx} 
 
 by
 Ezekiel Arom |
